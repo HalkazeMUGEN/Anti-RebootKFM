@@ -1,0 +1,15 @@
+[Info]
+name = "Anti-RebootKFM"
+displayname = "Anti-RebootKFM"
+author = "Halkaze"
+pal.defautls = 1
+
+[Files]
+cmd = CNS/kfm.cmd
+cns = CNS/kfm.cns
+st = CNS/kfm.cns
+st1 = CNS/DLLCALL.cns
+sprite = RES/Anti-RebootKFM.sff
+anim = RES/Anti-RebootKFM.air
+sound = 
+pal1 = 
